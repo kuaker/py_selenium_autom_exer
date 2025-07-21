@@ -1,0 +1,9 @@
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/selenium.iml
+.idea/vcs.xml
+__pycache__/
+locators/__pycache__/
+pages/__pycache__/
+tests/__pycache__/
