@@ -10,6 +10,7 @@ Run this commands in order to setup Python libraries in your local machine:
 cd /your/project/path
 pip install pytest
 pip install selenium
+pip install webdriver-manager
 
 
 # Running tests locally
